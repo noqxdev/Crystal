@@ -1,4 +1,4 @@
 <p style="display: flex; align-items: center;">
-  <img src="https://i.ibb.co/ydLW6yg/New-Project-4.png" width="550px" />
+  <img src="https://i.ibb.co/qgv7Mtk/minecra33ft-title.webp" width="550px" />
 </p>
 
