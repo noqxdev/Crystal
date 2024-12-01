@@ -12,3 +12,6 @@ toggle menu: O
 ```
 Server needs to be vanilla or Paper 
 ```
+
+# Release: [Crystal](https://github.com/noqxdev/Crystal/releases)
+
