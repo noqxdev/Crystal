@@ -10,7 +10,8 @@ toggle menu: O
 
 ### Info:
 ```
-Server needs to be vanilla or Paper 
+Server needs to be vanilla or Paper
+Verson: 1.21.1
 ```
 
 # Release: [Crystal](https://github.com/noqxdev/Crystal/releases)
